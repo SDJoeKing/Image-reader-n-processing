@@ -14,6 +14,8 @@ A small GUI that can visualise thermography images of solar cell wires saved in 
 6. Choose to apply automatically detected Otsu's threshold, or manually put in value as threshold, Threshold will be added to images
  ![image](https://user-images.githubusercontent.com/69092110/161381775-86492c7a-83ac-4ab1-bcbe-20734c0e720b.png)
 
+## Two stage processing algorithm
+Another processing script was developed for the work published in journal: https://www.mdpi.com/2076-3417/12/4/2005/htm. 
 
 
  
