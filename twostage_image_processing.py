@@ -240,7 +240,7 @@ class OledSolarImage:
 import time
 if __name__ == "__main__":
  
-    os.chdir(r'C:\OledSolar\Data preparation\Auto segmentation\Train')
+    os.chdir('C:\\Data preparation\\Auto segmentation\\Train')
     Files = glob.glob("*.npy")
     p = r'C:\OledSolar\Data preparation\Auto segmentation\Train\r'
     processor = OledSolarImage(number_of_wires = 4, transpose = False, average_filter_size= [15,15])
